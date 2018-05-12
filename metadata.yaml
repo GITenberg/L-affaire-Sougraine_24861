@@ -1,0 +1,31 @@
+_repo: L-affaire-Sougraine_24861
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lemay, Pamphile
+    aliases:
+    - Lemay, Léon Pamphile
+    - Lemay, Leon Pamphile
+    birthdate: 1837
+    deathdate: 1918
+    gutenberg_agent_id: '9591'
+    url: http://www.gutenberg.org/2009/agents/9591
+    wikipedia: http://fr.wikipedia.org/wiki/Pamphile_Lemay
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2008-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24861'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canada -- Fiction'
+title: L'affaire Sougraine
+url: http://www.gutenberg.org/ebooks/24861
